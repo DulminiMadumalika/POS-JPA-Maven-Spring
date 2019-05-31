@@ -1,0 +1,24 @@
+May 31, 2019 4:07:17 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.45
+May 31, 2019 4:07:17 PM org.hibernate.jpa.internal.util.LogHelper logPersistenceUnitInformation
+INFO: HHH000204: Processing PersistenceUnitInfo [name: unit1]
+May 31, 2019 4:07:18 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.3.Final}
+May 31, 2019 4:07:18 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+May 31, 2019 4:07:19 PM org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator initiateService
+WARN: HHH000181: No appropriate connection provider encountered, assuming application will be supplying connections
+May 31, 2019 4:07:19 PM org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator initiateService
+WARN: HHH000342: Could not obtain connection to query metadata : The application must supply JDBC connections
+May 31, 2019 4:07:57 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.45
+May 31, 2019 4:07:57 PM org.hibernate.jpa.internal.util.LogHelper logPersistenceUnitInformation
+INFO: HHH000204: Processing PersistenceUnitInfo [name: unit1]
+May 31, 2019 4:07:57 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.3.Final}
+May 31, 2019 4:07:58 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+May 31, 2019 4:07:58 PM org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator initiateService
+WARN: HHH000181: No appropriate connection provider encountered, assuming application will be supplying connections
+May 31, 2019 4:07:58 PM org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator initiateService
+WARN: HHH000342: Could not obtain connection to query metadata : The application must supply JDBC connections
